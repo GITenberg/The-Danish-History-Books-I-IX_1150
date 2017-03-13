@@ -1,5 +1,5 @@
 _repo: The-Danish-History-Books-I-IX_1150
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Nine Books of the Danish History of Saxo Grammaticus
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1945
     gutenberg_agent_id: '41397'
     url: http://www.gutenberg.org/2009/agents/41397
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Saxo, Grammaticus
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/538
     wikipedia: http://en.wikipedia.org/wiki/Saxo_Grammaticus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1150#The-Danish-History-Books-I-IX
 gutenberg_issued: '2006-02-11'
 gutenberg_type: Text
 identifiers:
